@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1466478305 source:c:\users\júnior\desktop\projetojosephus\main.c
+	"biblioteca.h"
+
+1466478305 c:\users\júnior\desktop\projetojosephus\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1466478372 source:c:\users\júnior\desktop\projetojosephus\functions.c
+	"biblioteca.h"
+
